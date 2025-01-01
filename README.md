@@ -1,10 +1,10 @@
 ## 👋 Hello, I’m Yingdong Mao
-Welcome to my GitHub Webpage! Here, I share useful code and tools related to option pricing, asset pricing, and portfolio management from my academic projects. Feel free to explore and clone them for your use. If you find these resources helpful, I would greatly appreciate it if you could provide proper citation.
+Welcome to my GitHub page! Here, I share useful code and tools related to option pricing, asset pricing, and portfolio management from my academic projects. Feel free to explore and clone them for your use. If you find these resources helpful, I would greatly appreciate it if you could provide proper citations.
 
 ## 👤 Biography
 👨‍🏫 Lecturer (Assistant Professor) in Finance at University of Sydney Business School
 
-🎓 PhD in Finance @ University of Texas at Dallas | Master in Mathematical Finance at Bentley University
+🎓 PhD in Finance at University of Texas at Dallas | Master in Mathematical Finance at Bentley University
 
 📚 Research Focus: Asset Pricing, Options, and Portfolio Theory
 
@@ -32,4 +32,4 @@ Welcome to my GitHub Webpage! Here, I share useful code and tools related to opt
 ![Python](https://img.shields.io/badge/Python-3.8-blue) ![R](https://img.shields.io/badge/R-4.0.2-lightblue)  
 ![LaTeX](https://img.shields.io/badge/LaTeX-Professional-orange)  
 
-🔗 [Google Scholar]([link](https://scholar.google.com/citations?user=j0c2PTwAAAAJ&hl=en)) | [Website]([link](https://sites.google.com/view/yingdong-mao/home)) | [Linkdedin](link)  
+🔗 [Google Scholar]([link](https://scholar.google.com/citations?user=j0c2PTwAAAAJ&hl=en)) | [Website]([link](https://sites.google.com/view/yingdong-mao/home)) | [Linkdedin](in/yingdong-mao-022a45a1)  
