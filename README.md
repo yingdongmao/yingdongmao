@@ -32,4 +32,4 @@ Welcome to my GitHub page! Here, I share useful code and tools related to option
 ![Python](https://img.shields.io/badge/Python-3.8-blue) ![R](https://img.shields.io/badge/R-4.0.2-lightblue)  
 ![LaTeX](https://img.shields.io/badge/LaTeX-Professional-orange)  
 
-🔗 [Google Scholar]([link](https://scholar.google.com/citations?user=j0c2PTwAAAAJ&hl=en)) | [Website]([link](https://sites.google.com/view/yingdong-mao/home)) | [Linkdedin](in/yingdong-mao-022a45a1)  
+🔗 [Google Scholar](https://scholar.google.com/citations?user=j0c2PTwAAAAJ&hl=en) | [Website](https://sites.google.com/view/yingdong-mao/home) | [Linkdedin](in/yingdong-mao-022a45a1)  
