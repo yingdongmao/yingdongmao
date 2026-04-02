@@ -22,7 +22,7 @@ Welcome to my GitHub page! Here, I share useful code and tools related to option
   + 📖 Framework: Borrows methodology from [Carr and Wu 2020](https://onlinelibrary.wiley.com/doi/abs/10.1111/jofi.12894) to decompose the implied volatility surface of equity options.
   + 💡 Insight: $RRP^v = \text{volatility risk premium} \times \text{hedge ratio}$. This measure predicts realized returns before earnings announcements.
     
-- 📉 [**Improving the Performance of Volatility-Managed Portfolios**](https://drive.google.com/file/d/1jup9STywj8tdWz_Q2ovsbeG96WlEo2wk/view)
+- 📉 [**Improving the Performance of Volatility-Managed Portfolios**](https://drive.google.com/file/d/1jup9STywj8tdWz_Q2ovsbeG96WlEo2wk/view) with [Feng Zhao](https://jindal.utdallas.edu/faculty/feng-zhao/), [Xiaoxiao Tang](https://sites.google.com/view/xiaoxiaotang-homepage)
 
   + 🛠️ Innovation: Developed a "Downside Managed Portfolio" that adjusts portfolio weight based on predictions of market downturns.
   + ⚙️ Practicality: "Downside Managed Portfolio" incorporates real-time predictability and survives transaction costs, addressing two major issues in [Volatility-Managed Portfolios](https://onlinelibrary.wiley.com/doi/abs/10.1111/jofi.12513) by Moreira and Muir (2017).
