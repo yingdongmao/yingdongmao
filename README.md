@@ -24,7 +24,7 @@ Welcome to my GitHub page! Here, I share useful code and tools related to option
   + 📖 Framework: Builds on [Carr and Wu (2020)](https://onlinelibrary.wiley.com/doi/abs/10.1111/jofi.12894) to decompose the implied volatility surface of equity options.
   + 💡 Insight: $RRP^v = \text{variance risk premium} \times \text{hedge ratio}$. Predicts realized returns ahead of the scheduled event.
 
-- 📉 **Timing the Downside: Managed Portfolios as Cost-Sensitive Classification** with [Feng Zhao](https://jindal.utdallas.edu/faculty/feng-zhao/) and [Xiaoxiao Tang](https://sites.google.com/view/xiaoxiaotang-homepage)
+- 📉 [**Timing the Downside: Managed Portfolios as Cost-Sensitive Classification**](https://github.com/yingdongmao/Multifactor) with [Feng Zhao](https://jindal.utdallas.edu/faculty/feng-zhao/) and [Xiaoxiao Tang](https://sites.google.com/view/xiaoxiaotang-homepage)
   + 🎯 **Framing shift.** The volatility-managed literature treats volatility as the *quantity* of risk to be scaled away. We treat it as a **state variable** (ICAPM-style), describing the investment opportunity set. The question becomes *what is the conditional distribution?*, not *what is the conditional mean?* — volatility predicts the downside state, and more precisely the *probability* of a downside.
   + ⚖️ **Cost-sensitive, fully ex-ante.** The threshold that separates "downside" from "no action" is set by the relative cost of the two errors — holding through a downside vs. cutting before a rally — *estimated in real time* from the forecast conditional tails. Because those costs are valued through the investor's utility, the threshold reflects both predictable tail asymmetry and her risk aversion. No look-ahead.
   + 🪜 **Three layers of performance gain:**
@@ -34,7 +34,7 @@ Welcome to my GitHub page! Here, I share useful code and tools related to option
   + 💼 **Implementation.** We replicate the nine factors at the individual-stock-holding level (à la DeMiguel et al.); the multifactor portfolio additionally benefits from **trade netting**, giving it a transaction-cost edge over every alternative we considered.
   + 🔒 *Code repository is private; it will be made public once the paper is accepted for publication.*
 
-- 🧮 **Option-Implied Betas under a Common Lens: Buss–Vilkov vs Kempf–Korn–Saßning, with an Emphasis on the Term Structure**
+- 🧮 [**Option-Implied Betas under a Common Lens: Buss–Vilkov vs Kempf–Korn–Saßning, with an Emphasis on the Term Structure**](https://github.com/yingdongmao/OI_BETA)
   + 🔬 Places the two leading option-implied beta estimators inside a single decomposition $\beta_i = \rho_{iM}\,\sigma_i/\sigma_M$, and shows that the entire methodological difference reduces to **one object** — a stock-specific implied market correlation (BV) vs. a market-wide constant (KKS).
   + 🧩 **Nesting result.** KKS is the constant-correlation limit of BV in the large-diversification case; the two methods sit on a spectrum of progressively stronger restrictions on the *shape* of the risk-neutral correlation matrix.
   + 📐 **Term structure.** BV carries a name-specific correlation term structure (better when the signal lives in correlations); KKS carries only a market-wide one but **degrades much more gracefully** when long-horizon pairwise-correlation data are unreliable.
