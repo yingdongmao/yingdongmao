@@ -34,7 +34,7 @@ Welcome to my GitHub page! Here, I share useful code and tools related to option
   + 💼 **Implementation.** We replicate the nine factors at the individual-stock-holding level (à la DeMiguel et al.); the multifactor portfolio additionally benefits from **trade netting**, giving it a transaction-cost edge over every alternative we considered.
   + 🔒 *Code repository is private; it will be made public once the paper is accepted for publication.*
 
-- 🧮 [**Option-Implied Betas under a Common Lens: Buss–Vilkov vs Kempf–Korn–Saßning, with an Emphasis on the Term Structure**](https://github.com/yingdongmao/OI_BETA)
+- 🧮 [**Option-Implied Betas under a Common Lens: Buss–Vilkov vs Kempf–Korn–Saßning, with an Emphasis on the Term Structure**](https://github.com/yingdongmao/OI_BETA) with Chao Gao (Australian National University)
   + 🔬 Places the two leading option-implied beta estimators inside a single decomposition $\beta_i = \rho_{iM}\,\sigma_i/\sigma_M$, and shows that the entire methodological difference reduces to **one object** — a stock-specific implied market correlation (BV) vs. a market-wide constant (KKS).
   + 🧩 **Nesting result.** KKS is the constant-correlation limit of BV in the large-diversification case; the two methods sit on a spectrum of progressively stronger restrictions on the *shape* of the risk-neutral correlation matrix.
   + 📐 **Term structure.** BV carries a name-specific correlation term structure (better when the signal lives in correlations); KKS carries only a market-wide one but **degrades much more gracefully** when long-horizon pairwise-correlation data are unreliable.
